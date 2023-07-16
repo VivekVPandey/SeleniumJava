@@ -1,0 +1,7 @@
+Pom dependencies
+selenium-java
+testng
+
+---------------
+Chrome driver.exe
+https://chromedriver.chromium.org/downloads
